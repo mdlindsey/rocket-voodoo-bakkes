@@ -1,4 +1,4 @@
-Set-Location BakkesPlugin
+Set-Location RocketVoodoo
 git clone https://github.com/Microsoft/vcpkg.git
 .\vcpkg\bootstrap-vcpkg.bat
 .\vcpkg\vcpkg install fmt:x64-windows-static
